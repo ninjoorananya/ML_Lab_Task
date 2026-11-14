@@ -1,4 +1,4 @@
-# 🤖 ML2 — Machine Learning Lab
+# 🤖 ML — Machine Learning Lab
 
 This repository contains two machine learning experiments implemented in Python:
 
