@@ -10,7 +10,7 @@ This repository contains two machine learning experiments implemented in Python:
 ## 📁 Project Structure
 
 ```
-ml2/
+ml/
 ├── README.md
 ├── RandomForest/
 │   ├── data.csv                   # Breast Cancer Wisconsin dataset
